@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmangUdit2141!
+- 👋 Hi, I’m @UmangUdit96!
 - 👀 I’m interested in Computer & Data Science.
 - 👀 Electively, I'm mostly interested in Cybersecurity.
 - 🌱 I’m currently learning Object Oriented Programming Languages, Competitive Programming, Android Development, Full-Stack Web Development, Data Structures & Algotithms.
